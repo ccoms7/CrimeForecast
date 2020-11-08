@@ -1,0 +1,2 @@
+# CrimeForecast
+The City of Vancouver (Canada) has 675,218 people (2017) and the Greater Vancouver Area is the third-largest metropolitan area in Canada and is one of the Top 10 worldwide cities for quality of life. I will explore if it's possible to accurately predict the number of daily crimes in the city of Vancouver by using the Python package called [Prophet] (https://facebook.github.io/prophet/), developed by Facebook in 2017 by the Core Data Science team.
