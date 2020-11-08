@@ -17,6 +17,6 @@ __Data__:
 	
 __Output Files__ 
 
-- ___crimedata_by_neighbourhood.csv__ - data with the crimes and standardized neighbourhood
+- ___crimedata_by_neighbourhood.csv___ - data with the crimes and standardized neighbourhood
 	
 - ___crimedata_w_date_time.csv___ - crime data with the date time columns concatenated and in the date format for analysis on Tableau and Prophet forecasting. 
